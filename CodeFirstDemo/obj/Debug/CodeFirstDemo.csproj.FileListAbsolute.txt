@@ -1,0 +1,10 @@
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+c:\users\mak\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
